@@ -2,6 +2,9 @@
 
 A premium, dark-themed domain discovery tool built with React, Vite, and TypeScript. Find your next project's home with natural suggestions and real-time availability checks.
 
+![Screenshot 1](screenshots/1.png)
+![Screenshot 2](screenshots/2.png)
+
 ## 🚀 Features
 
 - **Natural Suggestions:** Generates intuitive domain combinations using curated prefixes and suffixes.
