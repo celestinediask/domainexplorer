@@ -2,8 +2,10 @@
 
 A premium, dark-themed domain discovery tool built with React, Vite, and TypeScript. Find your next project's home with natural suggestions and real-time availability checks.
 
-![Screenshot 1](screenshots/1.png)
-![Screenshot 2](screenshots/2.png)
+![Domain Generator](screenshots/home-page-domain-generator.png)
+![Explore Ideas](screenshots/homepage-explore-ideas-section.png)
+![Explore Page](screenshots/explore-page.png)
+![Favorites and Trash](screenshots/favorite.png)
 
 ## 🚀 Features
 
@@ -41,4 +43,4 @@ A premium, dark-themed domain discovery tool built with React, Vite, and TypeScr
    ```bash
    npm run build
    ```
-## JYVD
+   
