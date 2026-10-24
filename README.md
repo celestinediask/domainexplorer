@@ -1,5 +1,7 @@
 # DomainExplorer
 
+<img width="1909" height="925" alt="image" src="https://github.com/user-attachments/assets/8ec54f4c-eef2-4247-9a57-5bce41a48f31" />
+
 A premium, dark-themed domain discovery tool built with React, Vite, and TypeScript. Find your next project's home with natural suggestions and real-time availability checks.
 
 ![Domain Generator](screenshots/home-page-domain-generator.png)
